@@ -8,20 +8,20 @@ Kaggle profile: [mianwang1024](https://www.kaggle.com/mianwang1024). Rank and te
 
 | Domain | Competition | Medal | Rank / teams | Top % | Entry | Year | Certificate |
 |---|---|---|--:|--:|---|--:|---|
-| LLM & NLP | [WSDM Cup - Multilingual Chatbot Arena](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena) | Gold | 5 / 950 | 0.6% | Team | 2025 | [png](kaggle/wsdm-cup-multilingual-chatbot-arena.png) |
-|  | [Deep Past Challenge - Translate Akkadian to English](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation) | Bronze | 252 / 2,674 | 9.5% | Solo | 2026 | [png](kaggle/deep-past-challenge-translate-akkadian-to-english.png) |
-| Vision & 3D imaging | [ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge) | Silver | 99 / 2,739 | 3.7% | Solo | 2024 | [png](kaggle/isic-2024-skin-cancer-detection-with-3d-tbp.png) |
+| LLM & NLP | [WSDM Cup - Multilingual Chatbot Arena](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena) | Gold | 5 / 950 | 0.5% | Team | 2025 | [png](kaggle/wsdm-cup-multilingual-chatbot-arena.png) |
+|  | [Deep Past Challenge - Translate Akkadian to English](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation) | Bronze | 252 / 2,674 | 9.4% | Solo | 2026 | [png](kaggle/deep-past-challenge-translate-akkadian-to-english.png) |
+| Vision & 3D imaging | [ISIC 2024 - Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge) | Silver | 99 / 2,739 | 3.6% | Solo | 2024 | [png](kaggle/isic-2024-skin-cancer-detection-with-3d-tbp.png) |
 |  | [Vesuvius Challenge - Ink Detection](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection) | Silver | 46 / 1,249 | 3.7% | Team | 2023 | [png](kaggle/vesuvius-challenge-ink-detection.png) |
 |  | [CSIRO - Image2Biomass Prediction](https://www.kaggle.com/competitions/csiro-biomass) | Bronze | 197 / 3,805 | 5.2% | Solo | 2026 | [png](kaggle/csiro-image2biomass-prediction.png) |
 |  | [BYU - Locating Bacterial Flagellar Motors 2025](https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025) | Bronze | 62 / 1,136 | 5.5% | Solo | 2025 | [png](kaggle/byu-locating-bacterial-flagellar-motors-2025.png) |
 | Time series & signals | [NFL Big Data Bowl 2026 - Prediction](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction) | Silver | 66 / 1,899 | 3.5% | Solo | 2026 | [png](kaggle/nfl-big-data-bowl-2026-prediction.png) |
-|  | [HMS - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification) | Bronze | 200 / 2,767 | 7.3% | Team | 2024 | [png](kaggle/hms-harmful-brain-activity-classification.png) |
+|  | [HMS - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification) | Bronze | 200 / 2,767 | 7.2% | Team | 2024 | [png](kaggle/hms-harmful-brain-activity-classification.png) |
 | Quant finance | [Jane Street Real-Time Market Data Forecasting](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting) | Bronze | 259 / 3,757 | 6.9% | Team | 2025 | [png](kaggle/jane-street-real-time-market-data-forecasting.png) |
 |  | [Hull Tactical - Market Prediction](https://www.kaggle.com/competitions/hull-tactical-market-prediction) | Bronze | 366 / 3,677 | 10.0% | Solo | 2026 | [png](kaggle/hull-tactical-market-prediction.png) |
 | Tabular | [CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions) | Bronze | 322 / 3,325 | 9.7% | Solo | 2025 | [png](kaggle/cibmtr-equity-in-post-hct-survival-predictions.png) |
 
 - **Entry** is the Kaggle team type: 7 solo, 4 team. Code for Hull Tactical and my part of the WSDM Cup solution is public: [hull-tactical-market-timing](https://github.com/datahubber/hull-tactical-market-timing), [wsdm-cup-5th-place-llm-judge](https://github.com/datahubber/wsdm-cup-5th-place-llm-judge).
-- **Top %** is rank divided by teams, rounded up to one decimal.
+- **Top %** is rank divided by teams, rounded to one decimal.
 - **Year** is the award year printed on the certificate.
 
 Certificates are snapshots from the award date. For 5 of the 11, the rank or team count printed on the certificate differs from the live profile. The table above uses the profile figures.
